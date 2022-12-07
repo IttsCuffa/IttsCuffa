@@ -1,5 +1,5 @@
-###Hi there :wave:, i'm Facundo  :panda_face::stuck_out_tongue_closed_eyes:
+###Hola a todos :wave:, Me llamo Facundo Rios  :panda_face::stuck_out_tongue_closed_eyes:
 ---
-**Frontend Developer.platzi student and passionate about web technologies, also in my free time I like to learn everything related to devOps.:computer::rocket:
+**Analista de sistemas.Estudiante de platzi y apasionado de las nuevas tecnologias, además en mi tiempo libre me gusta aprender todo lo relacionado con Ciencia de datos. .:computer::rocket:🧮📈
 
 
